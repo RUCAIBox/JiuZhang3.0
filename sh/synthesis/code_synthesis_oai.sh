@@ -1,0 +1,1 @@
+python -m synthesis_tool.generate_oai
